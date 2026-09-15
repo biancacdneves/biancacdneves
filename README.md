@@ -1,43 +1,30 @@
-<h2 align="left">Olá , me chamo Bianca Cristina! Sou estudante de Ciência da Computação, atualmente no 2º semestre no Centro Universitário Cruzeiro do Sul (UDF). Estou sempre aprimorando minhas habilidades em programação, movida pela minha paixão por tecnologia e inovação.</h2>
+# Olá, eu sou a Bianca Cristina! 👋
 
-###
+👩‍💻 Estudante de **Ciência da Computação** (5º Semestre) no Centro Universitário Cruzeiro do Sul (UDF).
+🚀 Movida pela paixão por tecnologia e inovação, estou sempre buscando aprimorar minhas habilidades em programação e desenvolvimento de software.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+### 🛠️ Tecnologias e Ferramentas
+
+<!-- Badges padronizados do shields.io -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bianca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bianca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bianca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bianca-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/biancacdneves/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/6s876wmr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:biancacdneves@gmail.com?subject=''Seu+assunto''&body=Ol%C3%A1..." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/biancacdneves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 📫 Como me encontrar
 
-###
+<!-- Substitua os links '#' pelos seus links reais -->
+<a href="https://www.linkedin.com/in/biancacdneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:biancacdneves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/biancacdneves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+<br>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/biancacdneves/biancacdneves/output/snake.svg" alt="Snake animation" />
-
-###
+---
+⭐️ *Deixe uma estrela nos repositórios que gostar!*
